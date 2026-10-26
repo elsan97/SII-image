@@ -7,4 +7,4 @@
 ## Установка
 
 ```bash
-pip install sii-image
+pip install sii-image```
