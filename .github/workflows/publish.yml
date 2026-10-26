@@ -8,7 +8,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      id-token: write # ОБЯЗАТЕЛЬНО для Trusted Publishing
+      id-token: write
       contents: read
 
     steps:
