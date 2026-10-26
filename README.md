@@ -8,3 +8,4 @@
 
 ```bash
 pip install sii-image
+```
